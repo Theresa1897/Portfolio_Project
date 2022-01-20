@@ -8,12 +8,10 @@
 
 h2 p {
   font-family: var(--heading-font-family);
-  color: #543a3a;
 }
 
 h1 {
   font-family: var(--default-font-family);
-  color: #543a3a;
 }
 
 .heading-bg {
@@ -26,6 +24,7 @@ h1 {
 }
 
 .heading-bg p {
+  color: #543a3a;
   font-weight: 600;
   font-size: 36px;
   font-style: normal;
@@ -33,6 +32,7 @@ h1 {
 }
 
 .heading-bg h1 {
+  color: #543a3a;
   font-weight: 700;
   font-size: 48px;
   font-style: normal;
@@ -40,6 +40,7 @@ h1 {
 }
 
 .heading-bg h2 {
+  color: #543a3a;
   font-weight: 400;
   font-size: 36px;
   font-style: normal;
