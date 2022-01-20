@@ -1,22 +1,9 @@
-p {
+h2 p {
   font-family: "Baloo 2", cursive;
-  font-weight: 600;
-  font-size: 36px;
-  font-style: normal;
 }
 
 h1 {
   font-family: "Andada Pro", serif;
-  font-weight: 700;
-  font-size: 48px;
-  font-style: normal;
-}
-
-h2 {
-  font-family: "Baloo 2", cursive;
-  font-weight: 400;
-  font-size: 36px;
-  font-style: normal;
 }
 
 .heading-bg {
@@ -26,5 +13,22 @@ h2 {
   width: 1024px;
   height: 341px;
   top: 114px;
-  left: 0px;
+}
+
+.heading-bg p {
+  font-weight: 600;
+  font-size: 36px;
+  font-style: normal;
+}
+
+.heading-bg h1 {
+  font-weight: 700;
+  font-size: 48px;
+  font-style: normal;
+}
+
+.heading-bg h2 {
+  font-weight: 400;
+  font-size: 36px;
+  font-style: normal;
 }
