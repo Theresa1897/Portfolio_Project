@@ -51,6 +51,7 @@ h1 {
 .btn-branding-outline {
   font-family: var(--default-font-family);
   color: #543a3a;
+  background: #c2cfd8;
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
