@@ -1,9 +1,6 @@
 .root {
   --heading-font-family: "Baloo 2", cursive;
   --default-font-family: "Andad Pro", serif;
-  --text-color: #543a3a;
-  --main-bg-color: #e1eeff;
-  --default-background-color: #c2cfd8;
 }
 
 h2 p {
