@@ -1,13 +1,19 @@
 h1 {
   font-family: "Andada Pro", serif;
+  font-weight: 600;
+  font-size: 36px;
 }
 
 h2 {
   font-family: "Baloo 2", cursive;
+  font-weight: 700;
+  font-size: 48px;
 }
 
 p {
   font-family: "Andada Pro", serif;
+  font-weight: 600;
+  font-size: 36px;
 }
 
 .heading-bg {
