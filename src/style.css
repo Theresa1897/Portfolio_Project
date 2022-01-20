@@ -5,3 +5,12 @@ h1 {
 h2 {
   font-family: "Baloo 2", cursive;
 }
+
+p {
+  font-family: "Andada Pro", serif;
+}
+
+.heading-bg {
+  background-color: #e1eeff;
+  text-align: center;
+}
