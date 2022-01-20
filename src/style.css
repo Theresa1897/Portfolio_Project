@@ -2,7 +2,7 @@
   --heading-font-family: "Baloo 2", cursive;
   --default-font-family: "Andad Pro", serif;
   --text-color: #543a3a;
-  --background-color: #e1eeff;
+  --heading-color: #e1eeff;
   --default-background-color: #c2cfd8;
 }
 
@@ -17,7 +17,7 @@ h1 {
 }
 
 .heading-bg {
-  background-color: var(--background-color);
+  background-color: var(--heading-color);
   text-align: center;
   position: absolute;
   width: 1024px;
