@@ -48,6 +48,14 @@ h1 {
   line-height: 57px;
 }
 
+.mb-4 {
+  font-family: var(--heading-font-family);
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #543a3a;
+}
+
 .mb-5 {
   font-family: var(--default-font-family);
   font-style: normal;
