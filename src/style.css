@@ -1,13 +1,11 @@
-.heading-bg h1 h2 p {
-  color: #543a3a;
-}
-
 h2 p {
   font-family: "Baloo 2", cursive;
+  color: #543a3a;
 }
 
 h1 {
   font-family: "Andada Pro", serif;
+  color: #543a3a;
 }
 
 .heading-bg {
