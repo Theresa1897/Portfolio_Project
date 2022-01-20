@@ -30,6 +30,12 @@ h1 {
   font-size: 36px;
   font-style: normal;
   line-height: 57px;
+  position: absolute;
+  width: 480px;
+  height: 132px;
+  left: 272px;
+  top: 175px;
+  display: flex;
 }
 
 .heading-bg h1 {
