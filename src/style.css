@@ -68,7 +68,7 @@ h1 {
   size: 24px;
 }
 
-.mb-3 p {
+.col-md-6 p {
   text-align: center;
   color: #543a3a;
   font-family: var(--heading-font-family);
