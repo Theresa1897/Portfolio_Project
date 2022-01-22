@@ -50,12 +50,8 @@ h1 {
 
 .container-project {
   padding-bottom: 0px;
-}
-
-.container {
-  max-width: 1000px;
   margin-top: 475px;
-  margin-bottom: 100px;
+  max-width: 1000px;
   padding: 0px;
 }
 
