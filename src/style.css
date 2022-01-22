@@ -48,6 +48,10 @@ h1 {
   line-height: 57px;
 }
 
+.container-project {
+  padding-bottom: 0px;
+}
+
 .container {
   max-width: 1000px;
   margin-top: 475px;
@@ -120,6 +124,10 @@ h1 {
 }
 .d-none {
   display: none;
+}
+
+.container-end {
+  padding-top: 0px;
 }
 
 .Inquire-Footer {
