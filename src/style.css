@@ -102,6 +102,10 @@ h1 {
   margin-top: 25px;
 }
 
+.WA {
+  margin: 0px;
+}
+
 .img-fluid {
   max-width: auto;
   height: auto;
