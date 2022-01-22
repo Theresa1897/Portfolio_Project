@@ -122,6 +122,20 @@ h1 {
   display: none;
 }
 
+.Inquire-Footer {
+  padding-left: 200px;
+  color: #543a3a;
+}
+
+.WI p {
+  padding-left: 265px;
+  color: #543a3a;
+}
+
+.col-md-auto {
+  color: #543a3a;
+}
+
 @media (max-width: 576px) {
   .col-md-6 {
     text-align: center;
