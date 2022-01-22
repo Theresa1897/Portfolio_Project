@@ -112,6 +112,7 @@ h1 {
 .img-fluid {
   max-width: auto;
   height: auto;
+  margin-top: 0px;
 }
 
 .img {
