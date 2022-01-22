@@ -50,12 +50,24 @@ h1 {
 
 .container {
   max-width: 720px;
-  margin-top: 100px;
+  margin-top: 450px;
   margin-bottom: 100px;
+  padding: 0px;
+}
+
+.mb-3 {
+  text-align: center;
+  color: #543a3a;
+  font-family: var(--default-font-family);
+  font-weight: 700px;
+  font-style: normal;
+  size: 24px;
 }
 
 .mt-5 {
   margin-top: 3rem !important;
+  text-align: center;
+  color: #543a3a;
 }
 
 .col-md-6 {
@@ -66,7 +78,7 @@ h1 {
 .img-fluid {
   max-width: auto;
   height: auto;
-  margin-top: 125px;
+  margin-top: 25px;
 }
 
 .img {
