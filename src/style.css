@@ -48,9 +48,35 @@ h1 {
   line-height: 57px;
 }
 
-.row {
-  display: flex;
-  flex-wrap: wrap;
+.containter {
+  max-width: 720px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.col-lg-6 {
+  flex: 0 0 auto;
+  width: 50%;
+}
+
+.img-fluid {
+  max-width: auto;
+  height: auto;
+  margin-top: 125px;
+}
+
+.img {
+  vertical-align: middle;
+}
+.d-none {
+  display: none;
+}
+
+@media (max-width: 576px) {
+  .col-lg-6 {
+    text-align: center;
+    width: auto;
+  }
 }
 
 .mb-4 {
