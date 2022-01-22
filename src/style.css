@@ -49,10 +49,14 @@ h1 {
 }
 
 .container {
-  max-width: 720px;
-  margin-top: 450px;
+  max-width: 1000px;
+  margin-top: 475px;
   margin-bottom: 100px;
   padding: 0px;
+}
+
+.row {
+  margin-bottom: 100px;
 }
 
 .mb-3 {
@@ -62,6 +66,10 @@ h1 {
   font-weight: 700px;
   font-style: normal;
   size: 24px;
+}
+
+.mb-3 p {
+  text-align: center;
 }
 
 .mt-5 {
