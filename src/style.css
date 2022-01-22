@@ -102,14 +102,9 @@ h1 {
   margin-top: 25px;
 }
 
-.WA .img-fluid {
-  margin-top: 0px;
-}
-
 .img-fluid {
   max-width: auto;
   height: auto;
-  margin-top: 25px;
 }
 
 .img {
