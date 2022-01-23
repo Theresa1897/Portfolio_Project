@@ -145,6 +145,8 @@ h1 {
 
 .col-md-auto {
   color: #543a3a;
+  margin: auto;
+  padding-right: 500px;
 }
 
 @media (max-width: 576px) {
