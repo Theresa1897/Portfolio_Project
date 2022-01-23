@@ -130,13 +130,17 @@ h1 {
 }
 
 .Inquire-Footer {
-  padding-left: 200px;
+  padding-left: 250px;
   color: #543a3a;
 }
 
 .WI p {
-  padding-left: 265px;
+  padding-left: 320px;
   color: #543a3a;
+}
+
+.WI {
+  padding-left: 100px;
 }
 
 .col-md-auto {
