@@ -58,7 +58,7 @@ h1 {
 }
 
 .row {
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
 
 .Pro-D {
@@ -193,12 +193,4 @@ h1 {
   font-family: var(--heading-font-family);
   font-size: 18px;
   color: #543a3a;
-}
-
-.social-email row {
-  margin-bottom: 20px;
-}
-
-.social row {
-  margin-bottom: 20px;
 }
