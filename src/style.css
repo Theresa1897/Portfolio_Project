@@ -123,8 +123,8 @@ h1 {
 }
 
 .Pro {
-  max-width: 100%;
-  height: auto;
+  max-width: 375px;
+  margin-top: 50px;
 }
 
 .d-none {
