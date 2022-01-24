@@ -166,6 +166,9 @@ h1 {
   font-size: 14px;
   text-align: center;
 }
+.navbar {
+  border-bottom: #543a3a 1px;
+}
 
 .navbar-brand {
   width: 338px;
