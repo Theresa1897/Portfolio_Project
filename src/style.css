@@ -121,6 +121,12 @@ h1 {
 .img {
   vertical-align: middle;
 }
+
+.pro-image-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
 .d-none {
   display: none;
 }
