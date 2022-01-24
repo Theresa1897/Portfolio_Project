@@ -180,9 +180,12 @@ h1 {
 }
 
 .navbar-nav {
-  color: #543a3a;
   font-family: var(--heading-font-family);
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
+}
+
+.nav-link {
+  color: #543a3a;
 }
