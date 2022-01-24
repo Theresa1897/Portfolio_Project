@@ -167,17 +167,14 @@ h1 {
 }
 
 .navbar-brand {
-  position: absolute;
   width: 338px;
   height: 68px;
   left: 12px;
   top: 45px;
-
   font-family: var(--default-font-family);
   font-style: normal;
   font-weight: 600;
   font-size: 36px;
   line-height: 42px;
-
   color: #543a3a;
 }
