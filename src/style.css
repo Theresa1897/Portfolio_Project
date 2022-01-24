@@ -170,8 +170,12 @@ h1 {
 }
 
 .about-section {
-  background-color: #e1eeff;
   margin-top: 50px;
+}
+
+.about-section-content {
+  background-color: #e1eeff;
+  padding: 20px;
 }
 
 .about-section h1 {
