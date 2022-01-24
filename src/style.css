@@ -11,6 +11,11 @@ h1 {
   font-family: var(--default-font-family);
 }
 
+.heading-border {
+  border-top: 1px solid #543a3a;
+  width: 1550px;
+}
+
 .heading-bg {
   background-color: #e1eeff;
   text-align: center;
