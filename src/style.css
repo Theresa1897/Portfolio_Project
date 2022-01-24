@@ -166,7 +166,8 @@ h1 {
   font-size: 14px;
   text-align: center;
 }
-.navbar {
+
+.border-bottom {
   border-bottom: #543a3a 1px;
 }
 
