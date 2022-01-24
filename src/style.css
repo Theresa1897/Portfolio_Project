@@ -122,11 +122,6 @@ h1 {
   vertical-align: middle;
 }
 
-.Pro {
-  max-width: 375px;
-  margin-top: 50px;
-}
-
 .d-none {
   display: none;
 }
@@ -150,6 +145,11 @@ h1 {
   padding-left: 100px;
 }
 
+.Pro {
+  max-width: 375px;
+  margin-top: 50px;
+}
+
 .col-md-auto {
   color: #543a3a;
   margin: auto;
@@ -161,6 +161,39 @@ h1 {
     text-align: center;
     width: auto;
   }
+}
+
+@media (min-width: 992px) {
+  .col-lg-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+}
+
+.about-section {
+  background-color: #e1eeff;
+  position: absolute;
+  width: 459px;
+  height: 559px;
+  left: 12px;
+  top: 255px;
+}
+
+.about-section h1 {
+  color: #543a3a;
+  font-family: var(--default-font-family);
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+}
+
+.about-section p {
+  font-family: var(--heading-font-family);
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  align-items: center;
+  color: #543a3a;
 }
 
 .btn-branding-outline {
