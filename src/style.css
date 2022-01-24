@@ -147,7 +147,6 @@ h1 {
 
 .Pro {
   max-width: 375px;
-  margin-top: 50px;
 }
 
 .col-md-auto {
@@ -172,11 +171,7 @@ h1 {
 
 .about-section {
   background-color: #e1eeff;
-  position: absolute;
-  width: 459px;
-  height: 559px;
-  left: 12px;
-  top: 255px;
+  margin-top: 50px;
 }
 
 .about-section h1 {
