@@ -320,6 +320,7 @@ nav-link {
   border-radius: 50%;
   background-color: #e1eeff;
   font-size: 18px;
+  padding: 10px 14px;
 }
 
 .social-links a:hover {
