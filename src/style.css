@@ -335,8 +335,9 @@ nav-link {
   font-weight: normal;
   font-size: 18px;
   transition: all 150ms ease-in-out;
+  text-decoration: none;
 }
 
-.email a:hover {
+.mail a:hover {
   color: #e1eeff;
 }
