@@ -334,4 +334,6 @@ nav-link {
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
+  transition: all 150ms ease-in-out;
+  background-color: #e1eeff;
 }
