@@ -84,6 +84,7 @@ h1 {
   color: #543a3a;
   font-family: var(--heading-font-family);
   font-size: 18px;
+  box-sizing: border-box;
 }
 
 .container-project {
@@ -101,7 +102,6 @@ h1 {
 
 .row-pro {
   padding: 50px;
-  box-sizing: border-box;
 }
 
 .Pro-D {
