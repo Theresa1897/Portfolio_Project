@@ -205,6 +205,13 @@ h1 {
   padding-right: 500px;
 }
 
+@media (min-width: 768px) {
+  .col-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+}
+
 @media (max-width: 576px) {
   .col-md-6 {
     text-align: center;
