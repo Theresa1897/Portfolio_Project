@@ -100,7 +100,9 @@ h1 {
 }
 
 .row-pro {
-  padding: 50px;
+  padding-top: 50px;
+  padding-bottom: 50%;
+  margin-left: 395px;
 }
 
 .Pro-D {
@@ -141,8 +143,7 @@ h1 {
 }
 
 .col-6 {
-  flex: 0 0 auto;
-  width: 50%;
+  width: 700px;
 }
 
 .col-md-6 {
@@ -208,13 +209,6 @@ h1 {
   color: #543a3a;
   margin: auto;
   padding-right: 500px;
-}
-
-@media (min-width: 768px) {
-  .col-6 {
-    flex: 0 0 auto;
-    width: 50%;
-  }
 }
 
 @media (max-width: 576px) {
