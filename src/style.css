@@ -314,6 +314,11 @@ nav-link {
   transition: all 150ms ease-in-out;
 }
 
+.social-links a {
+  color: #543a3a;
+  text-decoration: none;
+}
+
 .social-links a:hover {
   color: #e1eeff;
   background: #543a3a;
