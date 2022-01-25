@@ -292,6 +292,12 @@ h1 {
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
+  margin-left: 30px;
+}
+
+.nav a:hover,
+nav-link {
+  color: #e1eeff;
 }
 
 .container-foot {
