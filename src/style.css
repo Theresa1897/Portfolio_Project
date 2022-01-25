@@ -101,6 +101,7 @@ h1 {
 
 .row-pro {
   padding: 50px;
+  box-sizing: border-box;
 }
 
 .Pro-D {
@@ -151,6 +152,10 @@ h1 {
 
 .WA {
   margin-top: 12px;
+}
+
+.pro-MP {
+  padding-top: 30px;
 }
 
 .MP {
