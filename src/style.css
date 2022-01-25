@@ -317,6 +317,9 @@ nav-link {
 .social-links a {
   color: #543a3a;
   text-decoration: none;
+  border-radius: 50%;
+  background-color: #e1eeff;
+  font-size: 18px;
 }
 
 .social-links a:hover {
