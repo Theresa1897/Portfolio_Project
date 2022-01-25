@@ -16,6 +16,21 @@ h1 {
   width: 1550px;
 }
 
+.project-title {
+  background-color: #e1eeff;
+  top: 158px;
+  height: 155px;
+}
+
+.project-title h1 {
+  font-family: var(--default-font-family);
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  color: #543a3a;
+  line-height: 42px;
+}
+
 .heading-bg {
   background-color: #e1eeff;
   text-align: center;
