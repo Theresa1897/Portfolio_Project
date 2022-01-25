@@ -28,6 +28,14 @@ h1 {
   font-weight: bold;
   font-size: 48px;
   line-height: 56px;
+  width: 456px;
+  height: 104px;
+  left: -14px;
+  top: 183px;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  text-align: center;
 }
 
 .project-title h1 {
