@@ -72,6 +72,20 @@ h1 {
   line-height: 57px;
 }
 
+.container-pro h3 {
+  color: #543a3a;
+  font-family: var(--default-font-family);
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.container-pro p {
+  color: #543a3a;
+  font-family: var(--heading-font-family);
+  font-size: 18px;
+}
+
 .container-project {
   padding-bottom: 0px;
   margin-top: 475px;
