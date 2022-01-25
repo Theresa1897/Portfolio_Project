@@ -309,8 +309,14 @@ nav-link {
 }
 
 .fab {
-  size: 3x;
+  font-size: 18px;
   color: #543a3a;
+  transition: all 150ms ease-in-out;
+}
+
+.container-foot .fab a:hover {
+  color: #e1eeff;
+  background: #543a3a;
 }
 
 .mail {
