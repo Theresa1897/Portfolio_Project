@@ -222,6 +222,12 @@ h1 {
   padding-right: 500px;
 }
 
+@media (min-width: 576px) {
+  .navbar .heading-bg .container-project .container-end {
+    align-items: center;
+  }
+}
+
 @media (max-width: 576px) {
   .col-md-6 {
     text-align: center;
