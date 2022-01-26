@@ -286,6 +286,24 @@ h1 {
   color: #543a3a;
 }
 
+.navbar-toggler-icon {
+  display: inline-block;
+}
+
+.navbar-collapse {
+  flex-basis: 100%;
+  flex-grow: 1;
+  align-items: center;
+}
+
+.navbar-nav {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
 .nav-link {
   color: #543a3a;
   font-family: var(--heading-font-family);
