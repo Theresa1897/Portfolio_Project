@@ -224,7 +224,6 @@ h1 {
 
 @media (max-width: 576px) {
   .navbar .container-project .WI .btn .container-foot {
-    align-items: center;
     text-align: center;
   }
 }
@@ -232,14 +231,12 @@ h1 {
 @media (max-width: 576px) {
   .heading-bg p h1 h2 {
     text-align: center;
-    align-items: center;
   }
 }
 
 @media (max-width: 576px) {
   .Inquire-Footer h1 p {
     text-align: center;
-    align-items: center;
   }
 }
 
