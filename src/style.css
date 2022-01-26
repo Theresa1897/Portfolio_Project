@@ -223,9 +223,23 @@ h1 {
 }
 
 @media (max-width: 576px) {
-  .navbar .heading-bg .container-project .container-end {
+  .navbar .heading-bg .container-project .container-end .btn .mail {
     align-items: center;
     text-align: center;
+  }
+}
+
+@media (max-width: 576px) {
+  .heading-bg p h1 h2 {
+    text-align: center;
+    align-items: center;
+  }
+}
+
+@media (max-width: 576px) {
+  .Inquire-Footer h1 p {
+    text-align: center;
+    align-items: center;
   }
 }
 
