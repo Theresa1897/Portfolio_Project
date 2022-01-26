@@ -223,7 +223,7 @@ h1 {
 }
 
 @media (max-width: 576px) {
-  .navbar .heading-bg .container-project .container-end .btn .mail {
+  .navbar .container-project .WI .btn .container-foot {
     align-items: center;
     text-align: center;
   }
