@@ -222,7 +222,7 @@ h1 {
   padding-right: 500px;
 }
 
-@media (min-width: 576px) {
+@media (max-width: 576px) {
   .navbar .heading-bg .container-project .container-end {
     align-items: center;
   }
