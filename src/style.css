@@ -223,25 +223,20 @@ h1 {
 }
 
 @media (max-width: 576px) {
-  .navbar .container-project .WI .btn .container-foot {
+  .container-project {
     text-align: center;
   }
 }
 
 @media (max-width: 576px) {
-  .heading-bg p h1 h2 {
+  .WI .Inquire-Footer {
     text-align: center;
+    width: auto;
   }
 }
 
 @media (max-width: 576px) {
-  .Inquire-Footer h1 p {
-    text-align: center;
-  }
-}
-
-@media (max-width: 576px) {
-  .col-md-6 {
+  .col-md-6 .btn {
     text-align: center;
     width: auto;
   }
