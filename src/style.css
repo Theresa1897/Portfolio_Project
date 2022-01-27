@@ -368,6 +368,10 @@ nav-link {
   color: #543a3a;
 }
 
+.col-8 {
+  width: none;
+}
+
 .social-links {
   font-size: 18px;
   color: #543a3a;
