@@ -222,6 +222,12 @@ h1 {
 }
 
 @media (max-width: 576px) {
+  .project-title {
+    text-align: center;
+  }
+}
+
+@media (max-width: 576px) {
   .container-project {
     text-align: center;
   }
